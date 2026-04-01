@@ -1,0 +1,14 @@
+C:\Users\Kadir\Desktop\PDF4\soru7\bin\Debug\net8.0\soru7.exe
+C:\Users\Kadir\Desktop\PDF4\soru7\bin\Debug\net8.0\soru7.deps.json
+C:\Users\Kadir\Desktop\PDF4\soru7\bin\Debug\net8.0\soru7.runtimeconfig.json
+C:\Users\Kadir\Desktop\PDF4\soru7\bin\Debug\net8.0\soru7.dll
+C:\Users\Kadir\Desktop\PDF4\soru7\bin\Debug\net8.0\soru7.pdb
+C:\Users\Kadir\Desktop\PDF4\soru7\obj\Debug\net8.0\soru7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kadir\Desktop\PDF4\soru7\obj\Debug\net8.0\soru7.AssemblyInfoInputs.cache
+C:\Users\Kadir\Desktop\PDF4\soru7\obj\Debug\net8.0\soru7.AssemblyInfo.cs
+C:\Users\Kadir\Desktop\PDF4\soru7\obj\Debug\net8.0\soru7.csproj.CoreCompileInputs.cache
+C:\Users\Kadir\Desktop\PDF4\soru7\obj\Debug\net8.0\soru7.dll
+C:\Users\Kadir\Desktop\PDF4\soru7\obj\Debug\net8.0\refint\soru7.dll
+C:\Users\Kadir\Desktop\PDF4\soru7\obj\Debug\net8.0\soru7.pdb
+C:\Users\Kadir\Desktop\PDF4\soru7\obj\Debug\net8.0\soru7.genruntimeconfig.cache
+C:\Users\Kadir\Desktop\PDF4\soru7\obj\Debug\net8.0\ref\soru7.dll

@@ -1,0 +1,14 @@
+C:\Users\Kadir\Desktop\PDF2\soru2_3\bin\Debug\net8.0\soru2_3.exe
+C:\Users\Kadir\Desktop\PDF2\soru2_3\bin\Debug\net8.0\soru2_3.deps.json
+C:\Users\Kadir\Desktop\PDF2\soru2_3\bin\Debug\net8.0\soru2_3.runtimeconfig.json
+C:\Users\Kadir\Desktop\PDF2\soru2_3\bin\Debug\net8.0\soru2_3.dll
+C:\Users\Kadir\Desktop\PDF2\soru2_3\bin\Debug\net8.0\soru2_3.pdb
+C:\Users\Kadir\Desktop\PDF2\soru2_3\obj\Debug\net8.0\soru2_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kadir\Desktop\PDF2\soru2_3\obj\Debug\net8.0\soru2_3.AssemblyInfoInputs.cache
+C:\Users\Kadir\Desktop\PDF2\soru2_3\obj\Debug\net8.0\soru2_3.AssemblyInfo.cs
+C:\Users\Kadir\Desktop\PDF2\soru2_3\obj\Debug\net8.0\soru2_3.csproj.CoreCompileInputs.cache
+C:\Users\Kadir\Desktop\PDF2\soru2_3\obj\Debug\net8.0\soru2_3.dll
+C:\Users\Kadir\Desktop\PDF2\soru2_3\obj\Debug\net8.0\refint\soru2_3.dll
+C:\Users\Kadir\Desktop\PDF2\soru2_3\obj\Debug\net8.0\soru2_3.pdb
+C:\Users\Kadir\Desktop\PDF2\soru2_3\obj\Debug\net8.0\soru2_3.genruntimeconfig.cache
+C:\Users\Kadir\Desktop\PDF2\soru2_3\obj\Debug\net8.0\ref\soru2_3.dll

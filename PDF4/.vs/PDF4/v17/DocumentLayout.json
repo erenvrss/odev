@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kadir\\Desktop\\PDF4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{151F6540-E018-4C7E-86A1-26ACFBD5C938}|soru7\\soru7.csproj|c:\\users\\kadir\\desktop\\pdf4\\soru7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{151F6540-E018-4C7E-86A1-26ACFBD5C938}|soru7\\soru7.csproj|solutionrelative:soru7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA720A2-CE13-48D5-A80F-BED4BFC75411}|soru6\\soru6.csproj|c:\\users\\kadir\\desktop\\pdf4\\soru6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA720A2-CE13-48D5-A80F-BED4BFC75411}|soru6\\soru6.csproj|solutionrelative:soru6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C951DF-3D93-402A-9961-1D66F2A29C3C}|soru5\\soru5.csproj|c:\\users\\kadir\\desktop\\pdf4\\soru5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1C951DF-3D93-402A-9961-1D66F2A29C3C}|soru5\\soru5.csproj|solutionrelative:soru5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A32D83-F9F4-4F1E-8845-55F41AD29F88}|soru4\\soru4.csproj|c:\\users\\kadir\\desktop\\pdf4\\soru4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A32D83-F9F4-4F1E-8845-55F41AD29F88}|soru4\\soru4.csproj|solutionrelative:soru4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C68F4548-BFEE-4CC6-9FB9-6CCE0DD304CC}|soru3\\soru3.csproj|c:\\users\\kadir\\desktop\\pdf4\\soru3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C68F4548-BFEE-4CC6-9FB9-6CCE0DD304CC}|soru3\\soru3.csproj|solutionrelative:soru3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06F4EA50-CAFC-48B0-B389-C8C69C8B91E7}|soru2\\soru2.csproj|c:\\users\\kadir\\desktop\\pdf4\\soru2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06F4EA50-CAFC-48B0-B389-C8C69C8B91E7}|soru2\\soru2.csproj|solutionrelative:soru2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40701429-C72E-43BB-9918-BBD75152244B}|soru1\\soru1.csproj|c:\\users\\kadir\\desktop\\pdf4\\soru1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40701429-C72E-43BB-9918-BBD75152244B}|soru1\\soru1.csproj|solutionrelative:soru1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kadir\\Desktop\\PDF4\\soru7\\Program.cs",
+              "RelativeDocumentMoniker": "soru7\\Program.cs",
+              "ToolTip": "C:\\Users\\Kadir\\Desktop\\PDF4\\soru7\\Program.cs",
+              "RelativeToolTip": "soru7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T10:06:36.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kadir\\Desktop\\PDF4\\soru6\\Program.cs",
+              "RelativeDocumentMoniker": "soru6\\Program.cs",
+              "ToolTip": "C:\\Users\\Kadir\\Desktop\\PDF4\\soru6\\Program.cs",
+              "RelativeToolTip": "soru6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T10:06:25.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kadir\\Desktop\\PDF4\\soru5\\Program.cs",
+              "RelativeDocumentMoniker": "soru5\\Program.cs",
+              "ToolTip": "C:\\Users\\Kadir\\Desktop\\PDF4\\soru5\\Program.cs",
+              "RelativeToolTip": "soru5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T10:05:36.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kadir\\Desktop\\PDF4\\soru4\\Program.cs",
+              "RelativeDocumentMoniker": "soru4\\Program.cs",
+              "ToolTip": "C:\\Users\\Kadir\\Desktop\\PDF4\\soru4\\Program.cs",
+              "RelativeToolTip": "soru4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T10:05:27.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kadir\\Desktop\\PDF4\\soru3\\Program.cs",
+              "RelativeDocumentMoniker": "soru3\\Program.cs",
+              "ToolTip": "C:\\Users\\Kadir\\Desktop\\PDF4\\soru3\\Program.cs",
+              "RelativeToolTip": "soru3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T10:05:16.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kadir\\Desktop\\PDF4\\soru2\\Program.cs",
+              "RelativeDocumentMoniker": "soru2\\Program.cs",
+              "ToolTip": "C:\\Users\\Kadir\\Desktop\\PDF4\\soru2\\Program.cs",
+              "RelativeToolTip": "soru2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T10:05:08.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kadir\\Desktop\\PDF4\\soru1\\Program.cs",
+              "RelativeDocumentMoniker": "soru1\\Program.cs",
+              "ToolTip": "C:\\Users\\Kadir\\Desktop\\PDF4\\soru1\\Program.cs",
+              "RelativeToolTip": "soru1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T10:04:55.88Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

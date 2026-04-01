@@ -1,0 +1,14 @@
+C:\Users\Kadir\Desktop\PDF1\örnek2\bin\Debug\net8.0\örnek2.exe
+C:\Users\Kadir\Desktop\PDF1\örnek2\bin\Debug\net8.0\örnek2.deps.json
+C:\Users\Kadir\Desktop\PDF1\örnek2\bin\Debug\net8.0\örnek2.runtimeconfig.json
+C:\Users\Kadir\Desktop\PDF1\örnek2\bin\Debug\net8.0\örnek2.dll
+C:\Users\Kadir\Desktop\PDF1\örnek2\bin\Debug\net8.0\örnek2.pdb
+C:\Users\Kadir\Desktop\PDF1\örnek2\obj\Debug\net8.0\örnek2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kadir\Desktop\PDF1\örnek2\obj\Debug\net8.0\örnek2.AssemblyInfoInputs.cache
+C:\Users\Kadir\Desktop\PDF1\örnek2\obj\Debug\net8.0\örnek2.AssemblyInfo.cs
+C:\Users\Kadir\Desktop\PDF1\örnek2\obj\Debug\net8.0\örnek2.csproj.CoreCompileInputs.cache
+C:\Users\Kadir\Desktop\PDF1\örnek2\obj\Debug\net8.0\örnek2.dll
+C:\Users\Kadir\Desktop\PDF1\örnek2\obj\Debug\net8.0\refint\örnek2.dll
+C:\Users\Kadir\Desktop\PDF1\örnek2\obj\Debug\net8.0\örnek2.pdb
+C:\Users\Kadir\Desktop\PDF1\örnek2\obj\Debug\net8.0\örnek2.genruntimeconfig.cache
+C:\Users\Kadir\Desktop\PDF1\örnek2\obj\Debug\net8.0\ref\örnek2.dll

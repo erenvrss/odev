@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asus\\Desktop\\PDF1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6510AC3-A14D-4608-851F-766B439C0ABB}|\u00F6rnek5\\\u00F6rnek5.csproj|c:\\users\\asus\\desktop\\pdf1\\\u00F6rnek5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6510AC3-A14D-4608-851F-766B439C0ABB}|\u00F6rnek5\\\u00F6rnek5.csproj|solutionrelative:\u00F6rnek5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D39AE6F-D1AF-4B4A-B5E2-E1F036B9A265}|\u00F6nrek4\\\u00F6nrek4.csproj|c:\\users\\asus\\desktop\\pdf1\\\u00F6nrek4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D39AE6F-D1AF-4B4A-B5E2-E1F036B9A265}|\u00F6nrek4\\\u00F6nrek4.csproj|solutionrelative:\u00F6nrek4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455CDBB3-6CD7-4390-A294-FF1EDDA1769D}|\u00F6rnek3\\\u00F6rnek3.csproj|c:\\users\\asus\\desktop\\pdf1\\\u00F6rnek3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{455CDBB3-6CD7-4390-A294-FF1EDDA1769D}|\u00F6rnek3\\\u00F6rnek3.csproj|solutionrelative:\u00F6rnek3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A693D8-6DB5-4F9D-B511-1BA669C5730E}|\u00F6rnek2\\\u00F6rnek2.csproj|c:\\users\\asus\\desktop\\pdf1\\\u00F6rnek2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26A693D8-6DB5-4F9D-B511-1BA669C5730E}|\u00F6rnek2\\\u00F6rnek2.csproj|solutionrelative:\u00F6rnek2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{615D1CA6-293E-4874-8D49-B6512C30D2CC}|\u00F6rnek1\\\u00F6rnek1.csproj|c:\\users\\asus\\desktop\\pdf1\\\u00F6rnek1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{615D1CA6-293E-4874-8D49-B6512C30D2CC}|\u00F6rnek1\\\u00F6rnek1.csproj|solutionrelative:\u00F6rnek1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E8AACD-6271-469C-910F-D4B24FE904DF}|soru5\\soru5.csproj|c:\\users\\asus\\desktop\\pdf1\\soru5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E8AACD-6271-469C-910F-D4B24FE904DF}|soru5\\soru5.csproj|solutionrelative:soru5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC8135C-596E-4538-9957-C085D7EBB261}|soru1\\soru1.csproj|c:\\users\\asus\\desktop\\pdf1\\soru1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC8135C-596E-4538-9957-C085D7EBB261}|soru1\\soru1.csproj|solutionrelative:soru1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4767F722-4BCC-4B5F-8E2A-429358891FD4}|soru2\\soru2.csproj|c:\\users\\asus\\desktop\\pdf1\\soru2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4767F722-4BCC-4B5F-8E2A-429358891FD4}|soru2\\soru2.csproj|solutionrelative:soru2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2EC0970-98E5-40BF-870F-5E48BF60DEF1}|soru3\\soru3.csproj|c:\\users\\asus\\desktop\\pdf1\\soru3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2EC0970-98E5-40BF-870F-5E48BF60DEF1}|soru3\\soru3.csproj|solutionrelative:soru3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{326B9D17-D644-400E-925C-8386B097480A}|soru4\\soru4.csproj|c:\\users\\asus\\desktop\\pdf1\\soru4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{326B9D17-D644-400E-925C-8386B097480A}|soru4\\soru4.csproj|solutionrelative:soru4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\PDF1\\\u00F6rnek5\\Program.cs",
+              "RelativeDocumentMoniker": "\u00F6rnek5\\Program.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\PDF1\\\u00F6rnek5\\Program.cs",
+              "RelativeToolTip": "\u00F6rnek5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T09:49:54.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\PDF1\\\u00F6nrek4\\Program.cs",
+              "RelativeDocumentMoniker": "\u00F6nrek4\\Program.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\PDF1\\\u00F6nrek4\\Program.cs",
+              "RelativeToolTip": "\u00F6nrek4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T09:48:44.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\PDF1\\\u00F6rnek3\\Program.cs",
+              "RelativeDocumentMoniker": "\u00F6rnek3\\Program.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\PDF1\\\u00F6rnek3\\Program.cs",
+              "RelativeToolTip": "\u00F6rnek3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T09:48:29.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\PDF1\\\u00F6rnek2\\Program.cs",
+              "RelativeDocumentMoniker": "\u00F6rnek2\\Program.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\PDF1\\\u00F6rnek2\\Program.cs",
+              "RelativeToolTip": "\u00F6rnek2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T09:35:13.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\PDF1\\\u00F6rnek1\\Program.cs",
+              "RelativeDocumentMoniker": "\u00F6rnek1\\Program.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\PDF1\\\u00F6rnek1\\Program.cs",
+              "RelativeToolTip": "\u00F6rnek1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T09:34:15.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\PDF1\\soru5\\Program.cs",
+              "RelativeDocumentMoniker": "soru5\\Program.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\PDF1\\soru5\\Program.cs",
+              "RelativeToolTip": "soru5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T09:33:13.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\PDF1\\soru4\\Program.cs",
+              "RelativeDocumentMoniker": "soru4\\Program.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\PDF1\\soru4\\Program.cs",
+              "RelativeToolTip": "soru4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T09:27:51.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\PDF1\\soru3\\Program.cs",
+              "RelativeDocumentMoniker": "soru3\\Program.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\PDF1\\soru3\\Program.cs",
+              "RelativeToolTip": "soru3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T09:27:14.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\PDF1\\soru2\\Program.cs",
+              "RelativeDocumentMoniker": "soru2\\Program.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\PDF1\\soru2\\Program.cs",
+              "RelativeToolTip": "soru2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T09:21:13.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\PDF1\\soru1\\Program.cs",
+              "RelativeDocumentMoniker": "soru1\\Program.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\PDF1\\soru1\\Program.cs",
+              "RelativeToolTip": "soru1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T09:20:51.705Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

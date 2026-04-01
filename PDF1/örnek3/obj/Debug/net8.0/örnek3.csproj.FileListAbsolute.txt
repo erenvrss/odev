@@ -1,0 +1,14 @@
+C:\Users\Kadir\Desktop\PDF1\örnek3\bin\Debug\net8.0\örnek3.exe
+C:\Users\Kadir\Desktop\PDF1\örnek3\bin\Debug\net8.0\örnek3.deps.json
+C:\Users\Kadir\Desktop\PDF1\örnek3\bin\Debug\net8.0\örnek3.runtimeconfig.json
+C:\Users\Kadir\Desktop\PDF1\örnek3\bin\Debug\net8.0\örnek3.dll
+C:\Users\Kadir\Desktop\PDF1\örnek3\bin\Debug\net8.0\örnek3.pdb
+C:\Users\Kadir\Desktop\PDF1\örnek3\obj\Debug\net8.0\örnek3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kadir\Desktop\PDF1\örnek3\obj\Debug\net8.0\örnek3.AssemblyInfoInputs.cache
+C:\Users\Kadir\Desktop\PDF1\örnek3\obj\Debug\net8.0\örnek3.AssemblyInfo.cs
+C:\Users\Kadir\Desktop\PDF1\örnek3\obj\Debug\net8.0\örnek3.csproj.CoreCompileInputs.cache
+C:\Users\Kadir\Desktop\PDF1\örnek3\obj\Debug\net8.0\örnek3.dll
+C:\Users\Kadir\Desktop\PDF1\örnek3\obj\Debug\net8.0\refint\örnek3.dll
+C:\Users\Kadir\Desktop\PDF1\örnek3\obj\Debug\net8.0\örnek3.pdb
+C:\Users\Kadir\Desktop\PDF1\örnek3\obj\Debug\net8.0\örnek3.genruntimeconfig.cache
+C:\Users\Kadir\Desktop\PDF1\örnek3\obj\Debug\net8.0\ref\örnek3.dll

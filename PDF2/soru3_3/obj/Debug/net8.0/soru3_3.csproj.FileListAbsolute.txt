@@ -1,0 +1,4 @@
+C:\Users\Kadir\Desktop\PDF2\soru3_3\obj\Debug\net8.0\soru3_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kadir\Desktop\PDF2\soru3_3\obj\Debug\net8.0\soru3_3.AssemblyInfoInputs.cache
+C:\Users\Kadir\Desktop\PDF2\soru3_3\obj\Debug\net8.0\soru3_3.AssemblyInfo.cs
+C:\Users\Kadir\Desktop\PDF2\soru3_3\obj\Debug\net8.0\soru3_3.csproj.CoreCompileInputs.cache
